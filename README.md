@@ -1,2 +1,4 @@
 # hello-world
-My first githun repository!
+My first github repository!
+
+My name is Pedro Chinchayán!
